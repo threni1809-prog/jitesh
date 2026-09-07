@@ -1,0 +1,7 @@
+{
+  "name": "Crafting Guide",
+  "description": "Minecraft crafting recipe guide and sandbox with 130+ recipes, authentic item textures, liquid glass UI, and interactive 3x3 crafting matrix.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
